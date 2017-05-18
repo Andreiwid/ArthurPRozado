@@ -1,0 +1,4 @@
+br/edu/ifsp/ogd/client/GhostClient.class
+br/edu/ifsp/ogd/util/MD5Utils.class
+br/edu/ifsp/ogd/rest/GhostService.class
+br/edu/ifsp/ogd/util/Constants.class
